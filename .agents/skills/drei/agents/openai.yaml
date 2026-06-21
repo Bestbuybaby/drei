@@ -1,0 +1,6 @@
+interface:
+  display_name: "Drei"
+  short_description: "Repo-specific patterns and workflows for drei"
+  default_prompt: "Use the drei repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
